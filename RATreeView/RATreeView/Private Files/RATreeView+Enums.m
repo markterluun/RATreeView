@@ -101,6 +101,7 @@
     case UITableViewStylePlain:
       return RATreeViewStylePlain;
     case UITableViewStyleGrouped:
+    case UITableViewStyleInsetGrouped:
       return RATreeViewStyleGrouped;
   }
 }
